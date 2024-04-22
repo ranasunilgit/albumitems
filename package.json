@@ -2,7 +2,7 @@
   "name": "subscribealbums",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ranasunilgit.github.io/clarivate-exam",
+  "homepage": "http://ranasunilgit.github.io/albumitems",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
     "@testing-library/jest-dom": "^5.17.0",
@@ -23,8 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
